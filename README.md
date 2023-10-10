@@ -4,6 +4,9 @@
 
 [Download tabby](https://tabby.sh/).
 
+### Install font
+Install all font in `./fonts` folder.
+
 ### Tabby config
 
 Copy paste the `tabby.conf` content in Tabby > Configuration > Configuration file.
