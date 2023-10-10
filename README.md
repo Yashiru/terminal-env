@@ -11,6 +11,13 @@ Install all font in `./fonts` folder.
 
 Copy paste the `tabby.conf` content in Tabby > Configuration > Configuration file.
 
+### Tabby icon
+
+```bash 
+cp ./config-files/tabby.desktop /usr/share/applications/tabby.desktop
+cp ./assets/tabby.png ~/.local/share/icons/custom/tabby.png
+```
+
 ## Install zsh
 
 ```bash
